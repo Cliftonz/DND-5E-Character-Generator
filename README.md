@@ -1,5 +1,4 @@
 # DND-5E-Character-Generator
-# DND-5E-Character-Generator
 This is a stand alone project for DND 5e for creating character that are within Adventure League Standards. 
 This creates your Race, Class, Subclass, and Background.
 In addition, it also rolls your stats for you in a few different combinations which including:
